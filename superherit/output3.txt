@@ -1,0 +1,10 @@
+output sbelum diubah :
+NAMA : null
+Alamat : null
+NIM :A11.2000.0001
+
+output setelah diubah :
+
+NIM :A11.2000.0001
+NAMA : null
+Alamat : null
